@@ -1,0 +1,39 @@
+leftnav:
+- identifier: 444bf915-4e6f-78e1-ee92-98ce47c23403
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 322a780d-d8ea-9242-0ca8-736f3c1d2d81
+  name: Learning Objectives and Assessment
+  pageRef: /pages/syllabus/objectives
+  parent: 444bf915-4e6f-78e1-ee92-98ce47c23403
+  weight: 20
+- identifier: 194f7fd4-2b61-3961-a5fa-5bbbcd36b308
+  name: Course Policies
+  pageRef: /pages/syllabus/policies
+  parent: 444bf915-4e6f-78e1-ee92-98ce47c23403
+  weight: 30
+- identifier: 99b062fd-0761-a61e-4b2a-4e957fd37c0c
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 40
+- identifier: 4e0e2d86-5bb2-9685-b272-8f3730fb05dc
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: 6ae95a6f-16be-365e-312a-e193bb74c8fd
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 60
+- identifier: 82ec102d-e9a6-4ed1-dfb0-f47fb309f39b
+  name: Recitations
+  pageRef: /pages/recitations
+  weight: 70
+- identifier: d624d5e5-e809-55c9-4390-06aea1f928bd
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 80
+- identifier: b7ef6e65-da95-7daa-011f-9eeb3d934fd9
+  name: Exams
+  pageRef: /pages/exams
+  weight: 90
