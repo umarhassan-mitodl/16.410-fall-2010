@@ -4,6 +4,8 @@ description: This resource is a supporting file for ipsolve and mathematical pro
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/d04d5bcea2b42422eff8cc7d83beaddf_assn08.zip
 file_size: 1170
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

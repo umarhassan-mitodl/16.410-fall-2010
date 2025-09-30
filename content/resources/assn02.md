@@ -5,6 +5,8 @@ description: This resource is a supporting file for depth first search and bread
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/ed02243583f61d074896a96f370dff7e_assn02.zip
 file_size: 12909
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

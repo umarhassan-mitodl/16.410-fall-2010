@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics for the course along
   with the notes for each session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -198,7 +200,7 @@ Encoding planning problems as propositional logic satisfiability \[SK\]
 {{< tdopen >}}
 
 
-{{% resource_link "31d6eebc-0eb5-4b50-87f6-e10f6784415e" "DARPA Urban Challenge videos" %}}
+[DARPA Urban Challenge videos](http://www.ai.sri.com/~gerkey/movies/duc/)
 
 ({{% resource_link e9c4749b-1dda-e7b4-ae52-5992fe27f057 "PDF - 1.1 MB" %}})
 

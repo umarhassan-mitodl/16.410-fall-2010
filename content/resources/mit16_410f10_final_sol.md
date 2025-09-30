@@ -5,6 +5,8 @@ description: 'This resource contains solutions for the problem statements relate
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/82acd4842b47ba08f6456dbe373b97d1_MIT16_410F10_final_sol.pdf
 file_size: 472290
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

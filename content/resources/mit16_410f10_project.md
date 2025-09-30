@@ -4,6 +4,8 @@ description: This resource contains information related to minisat solver.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/91c76c06e901ca451bae903bee5f02d1_MIT16_410F10_project.pdf
 file_size: 93708
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

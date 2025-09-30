@@ -42,6 +42,7 @@
     "website": "16-410-principles-of-autonomy-and-decision-making-fall-2010"
   },
   "course_title": "Principles of Autonomy and Decision Making",
+  "hide_download": true,
   "course_description": "This course surveys a variety of reasoning, optimization and decision making methodologies for creating highly autonomous systems and decision support aids. The focus is on principles, algorithms, and their application, taken from the disciplines of artificial intelligence and operations research.\n\nReasoning paradigms include logic and deduction, heuristic and constraint-based search, model-based reasoning, planning and execution, and machine learning. Optimization paradigms include linear programming, integer programming, and dynamic programming. Decision-making paradigms include decision theoretic planning, and Markov decision processes.\n",
   "department_numbers": [
     "16"
@@ -52,6 +53,7 @@
     "content": "16ed6a4a-859d-bcf7-4c5f-9f5a59a77dae",
     "website": "16-410-principles-of-autonomy-and-decision-making-fall-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

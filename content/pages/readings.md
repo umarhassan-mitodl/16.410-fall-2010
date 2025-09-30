@@ -45,7 +45,7 @@ Foundations I: state space search
 Foundations II: complexity of state space search
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "b0f744fd-ba06-46ef-88e2-437a9565cbc7" "6.042J Lecture Notes" %}}: Recurrences
+[6.042J Lecture Notes](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/): Recurrences
 
 6.046 Lecture Notes: Asymptotic analysis ({{% resource_link "d6c1bde6-ba67-5327-20e8-83dde4a79dcb" "PDF" %}}) (Courtesy of Erik Demaine. Used with permission.)
 
@@ -54,7 +54,7 @@ Foundations II: complexity of state space search
 {{< tdclose >}}{{< tdopen >}}
 Foundations III: soundness and completeness of search
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "b0f744fd-ba06-46ef-88e2-437a9565cbc7" "6.042J Lecture Notes" %}}: Proofs, induction I
+[6.042J Lecture Notes](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/readings/): Proofs, induction I
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -141,7 +141,7 @@ Global path planning II: sampling-based algorithms for motion planning
 
 \[PA\] Chapter 5
 
-Karaman, Sertac, and Emilio Frazzoli. "{{% resource_link "7ebffc1d-50a7-405a-a19d-a54dcd8725d1" "Sampling-based Algorithms for Optimal Motion Planning" %}}." *International Journal of Robotics Research* 30, no. 7 (2011): 846-894.
+Karaman, Sertac, and Emilio Frazzoli. "[Sampling-based Algorithms for Optimal Motion Planning](http://arxiv.org/abs/1105.1186)." *International Journal of Robotics Research* 30, no. 7 (2011): 846-894.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
