@@ -4,8 +4,6 @@ description: This resource is a supporting file for example environment.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/04d3e9d7c639d5797b867fb22f178c5c_env_files.zip
 file_size: 1850
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

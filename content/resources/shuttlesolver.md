@@ -4,8 +4,6 @@ description: This resource is a supporting file for incomplete code.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/f42812ce5da30e902147121b6abeb11b_ShuttleSolver.java
 file_size: 5603
 file_type: text/x-java
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource contains problem statements related to activity plann
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/006bb6815e138480553a438c59d86c15_MIT16_410F10_final.pdf
 file_size: 316760
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

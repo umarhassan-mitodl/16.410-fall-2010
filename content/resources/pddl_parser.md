@@ -4,8 +4,6 @@ description: This resource is a supporting file for pddl parser.
 file: /courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/73602ebae361bfdc004d339ede690907_pddl_parser.zip
 file_size: 3477
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
